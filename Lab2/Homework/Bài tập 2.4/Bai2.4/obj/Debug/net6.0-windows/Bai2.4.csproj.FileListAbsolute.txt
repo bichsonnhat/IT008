@@ -1,0 +1,16 @@
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\bin\Debug\net6.0-windows\Bai2.4.exe
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\bin\Debug\net6.0-windows\Bai2.4.deps.json
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\bin\Debug\net6.0-windows\Bai2.4.runtimeconfig.json
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\bin\Debug\net6.0-windows\Bai2.4.dll
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\bin\Debug\net6.0-windows\Bai2.4.pdb
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2._4.Form1.resources
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.csproj.GenerateResource.cache
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.AssemblyInfoInputs.cache
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.AssemblyInfo.cs
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.csproj.CoreCompileInputs.cache
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.dll
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\refint\Bai2.4.dll
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.pdb
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\Bai2.4.genruntimeconfig.cache
+C:\Users\Hoang Quan\source\repos\Laptrinhtrucquan\Bai2.4\Bai2.4\obj\Debug\net6.0-windows\ref\Bai2.4.dll
